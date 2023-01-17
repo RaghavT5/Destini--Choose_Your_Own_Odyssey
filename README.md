@@ -1,7 +1,12 @@
-<<<<<<< HEAD
 # Destini: Choose Your Own Odyssey
 
 Destini is a simple text-based "choose your own adventure" style game built with Flutter. The game is based on the classic concept of making choices that affect the outcome of the story. The game features multiple endings and the player's choices determine the path they take through the game.
+
+## Screenshots
+
+<img src="assets/screenshots/screen1.png" width="288" height="608">
+<img src="assets/screenshots/screen2.png" width="288" height="608">
+
 
 ## How to Play
 
@@ -25,21 +30,3 @@ To play Destini: Choose Your Own Odyssey, you will, atleast for now, need to set
 ## Conclusion
 
 Destini: Choose Your Own Odyssey is a fun and engaging game that offers a unique and personalized gaming experience. Set up the app now on your local environment and embark on your own odyssey!
-=======
-# destini
-
-A 'choose your own adventure' style text-based game.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 9fb4c63 (Initial commit)
