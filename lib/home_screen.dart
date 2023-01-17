@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 
-<<<<<<< HEAD
-//Homescreen is under development and is yet to be added. The rest odt the app works fine.
-=======
 //This screen is under development and is yet to be added. The rest odt the app works fine.
->>>>>>> 9fb4c63 (Initial commit)
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
